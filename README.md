@@ -3,7 +3,7 @@ Pop-out heading navigator for Microsoft Word (plugin)
 
 
 INSTRUCTIONS
-1. Download navX.dotm
+1. Download [navX.dotm](https://github.com/samcpop/navX/blob/main/navX.dotm)
 2. Put it in the following folder
    WINDOWS
    i. Press Win + R to open Run
