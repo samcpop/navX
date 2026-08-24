@@ -13,5 +13,5 @@ INSTRUCTIONS
    i. Open Finder and Press Cmd + Shift + G
    ii. Enter and select ~/Library/Group Containers/UBF8T30669.Office/User Content/Startup
    iii. Put it in /Word
-4. Restart Word + Select the View tab
-5. Click the 'Macros' button, and run 'showHeadings'
+3. Restart Word + Select the View tab
+4. Click the 'Macros' button, and run 'showHeadings'
